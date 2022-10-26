@@ -45,5 +45,5 @@ document.getElementById("c8").onclick=()=>{
 
     document.getElementById("c9").innerHTML = a;
     document.getElementById("c10").innerHTML = b;
-    document.getElementById("c11").innerHTML =a+b;
+    document.getElementById("c11").innerHTML =c;
 }
