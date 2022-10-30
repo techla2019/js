@@ -34,3 +34,15 @@
     text-align: center;
     font-size: 25px;
 }
+body{
+    margin: 2%;
+    padding: 2%;
+}
+.a{
+    color: rgb(179, 15, 15);
+    font-size: 50px;
+}
+.b{
+    color: rgb(9, 34, 116);
+    font-size: 50px;
+}
