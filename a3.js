@@ -22,7 +22,7 @@ document.getElementById("c7").onclick =function(){
     count++
     document.getElementById("c1").innerHTML=count;
 
-    document.getElementById("c6").innerHTML= "goodmorning " +user +" welcome to our online shop"
+    document.getElementById("c6").innerHTML= "Well done " +user +" you are now in the right place"
 }
 
 
