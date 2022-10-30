@@ -22,7 +22,7 @@ document.getElementById("c7").onclick =function(){
     count++
     document.getElementById("c1").innerHTML=count;
 
-    document.getElementById("c6").innerHTML= "Well done " +user +" you are now in the right place"
+    document.getElementById("c6").innerHTML= "Well done " +user +" you are now in the right place, make your orders please,"
 }
 
 
@@ -60,7 +60,7 @@ document.getElementById("c19").onclick = ()=>{
         }
         
         document.getElementById("c22").onclick = ()=>{
-            dig11 = "THREE (Three)"
+            dig11 = "THREE"
             document.getElementById("c23").innerHTML= dig11
             
         }
