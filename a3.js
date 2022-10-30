@@ -47,3 +47,78 @@ document.getElementById("c8").onclick=()=>{
     document.getElementById("c10").innerHTML = b;
     document.getElementById("c11").innerHTML =c;
 }
+document.getElementById("c19").onclick = ()=>{
+            dig9 = "ONE "
+            document.getElementById("c18").innerHTML= dig9
+            
+        }
+        
+        document.getElementById("c20").onclick = ()=>{
+            dig10 = "TWO"
+            document.getElementById("c21").innerHTML= dig10
+            
+        }
+        
+        document.getElementById("c22").onclick = ()=>{
+            dig11 = "THREE (Three)"
+            document.getElementById("c23").innerHTML= dig11
+            
+        }
+        
+        document.getElementById("c24").onclick = ()=>{
+            dig12 = "FOUR"
+            document.getElementById("c25").innerHTML= dig12
+            
+        }
+        
+        document.getElementById("c26").onclick = ()=>{
+            dig13 = "FIVE"
+            document.getElementById("c27").innerHTML= dig13
+            
+        }
+        
+        document.getElementById("c28").onclick = ()=>{
+            dig14 = "SIX"
+            document.getElementById("c29").innerHTML= dig14
+            
+        }
+        
+        document.getElementById("c30").onclick = ()=>{
+            dig15 = "SEVEN"
+            document.getElementById("c31").innerHTML= dig15
+            
+        }
+        
+        document.getElementById("c32").onclick = ()=>{
+            dig16 = "EIGHT"
+            document.getElementById("c33").innerHTML= dig16
+            
+        }
+        
+        document.getElementById("c34").onclick = ()=>{
+            dig17 = "NINE"
+            document.getElementById("c35").innerHTML= dig17
+            
+        }
+        
+        document.getElementById("c36").onclick = ()=>{
+            dig18 = "TEN"
+            document.getElementById("c37").innerHTML= dig18
+            
+        }
+       
+            document.getElementById("c38").onclick = ()=>{
+               di=" "
+               document.getElementById("c21").innerHTML =di
+               document.getElementById("c18").innerHTML =di
+               document.getElementById("c23").innerHTML =di
+               document.getElementById("c25").innerHTML =di
+               document.getElementById("c27").innerHTML =di
+               document.getElementById("c29").innerHTML =di
+               document.getElementById("c31").innerHTML =di
+               document.getElementById("c33").innerHTML =di
+               document.getElementById("c35").innerHTML =di
+               document.getElementById("c37").innerHTML =di
+                
+            
+            }
