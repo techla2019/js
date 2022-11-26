@@ -14,15 +14,15 @@ document.getElementById("c4").onclick =()=>{
     document.getElementById("c1").innerHTML=count;
 }
 document.getElementById("c39").onclick =()=>{
-    count = count+3
+    count = count+2
     document.getElementById("c1").innerHTML=count;
 }
 document.getElementById("c40").onclick =()=>{
-    count = count+5
+    count = count+3
     document.getElementById("c1").innerHTML=count;
 }
 document.getElementById("c41").onclick =()=>{
-    count = count+2
+    count = count+4
     document.getElementById("c1").innerHTML=count;
 }
 
