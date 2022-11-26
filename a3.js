@@ -14,9 +14,18 @@ document.getElementById("c4").onclick =()=>{
     document.getElementById("c1").innerHTML=count;
 }
 document.getElementById("c39").onclick =()=>{
-    count+3
+    count = count+3
     document.getElementById("c1").innerHTML=count;
 }
+document.getElementById("c40").onclick =()=>{
+    count = count+5
+    document.getElementById("c1").innerHTML=count;
+}
+document.getElementById("c41").onclick =()=>{
+    count = count+2
+    document.getElementById("c1").innerHTML=count;
+}
+
 
 
 let user
@@ -24,7 +33,7 @@ let user
 document.getElementById("c7").onclick =function(){
     user=document.getElementById("c5").value;
     console.log(user);
-    count + 3
+//     count + 3
     document.getElementById("c1").innerHTML=count;
 
     document.getElementById("c6").innerHTML= "Well done " +user +" you are now in the right place, make your orders please,"
