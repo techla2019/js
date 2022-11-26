@@ -24,7 +24,7 @@ let user
 document.getElementById("c7").onclick =function(){
     user=document.getElementById("c5").value;
     console.log(user);
-    count++
+    count + 3
     document.getElementById("c1").innerHTML=count;
 
     document.getElementById("c6").innerHTML= "Well done " +user +" you are now in the right place, make your orders please,"
