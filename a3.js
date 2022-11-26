@@ -13,6 +13,11 @@ document.getElementById("c4").onclick =()=>{
     count++
     document.getElementById("c1").innerHTML=count;
 }
+document.getElementById("c38").onclick =()=>{
+    count+3
+    document.getElementById("c1").innerHTML=count;
+}
+
 
 let user
 
