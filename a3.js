@@ -30,7 +30,7 @@ document.getElementById("c41").onclick =()=>{
 
 let user
 
-document.getElementById("c7").onclick =function(){
+document.getElementById("c7").onclick =()=>{
     user=document.getElementById("c5").value;
     console.log(user);
 //     count + 3
